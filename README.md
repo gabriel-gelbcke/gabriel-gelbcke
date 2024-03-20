@@ -34,6 +34,7 @@ Olá, me chamo Gabriel e estou cursando Análise e Desenvolvimento de Sistemas n
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gabriel-gelbcke&icon=5&color=1)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=gabriel-gelbcke&icon=5&color=1)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=gabriel-gelbcke&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
