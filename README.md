@@ -14,7 +14,6 @@ Olá, me chamo Gabriel e estou cursando Análise e Desenvolvimento de Sistemas n
 ## 💻 Tech Stack:
 <div>
   <img height="30em" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white"/>
-  <img height="30em" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
