@@ -22,6 +22,8 @@ Olá, me chamo Gabriel e estou cursando Análise e Desenvolvimento de Sistemas n
   <img height="30em" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>
+  <img height="30em" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  
 </div>
 
 
