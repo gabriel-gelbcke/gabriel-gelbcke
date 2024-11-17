@@ -24,14 +24,8 @@ Olá, me chamo Gabriel e estou cursando Análise e Desenvolvimento de Sistemas n
   <img height="30em" src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=Kotlin&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/-SQL-%23ED8B00.svg?style=flat&&logo=MySQL&logoColor=white"/>
-</div>
-
-<div>
-  
-  
   <img height="30em" src="https://img.shields.io/badge/python-%233670A0.svg?style=flat&logo=python&logoColor=ffdd54"/>
 </div>
-
 
 ##  📊 GitHub Stats:
 <div align="center">
