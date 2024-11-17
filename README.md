@@ -19,10 +19,17 @@ Olá, me chamo Gabriel e estou cursando Análise e Desenvolvimento de Sistemas n
   <img height="30em" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
   <img height="30em" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white"/>
-  <img height="30em" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"/>
+  <img height="30em" src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=flat&logo=.net&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>
-  <img height="30em" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img height="30em" src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white"/>
+  <img height="30em" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=Kotlin&logoColor=white"/>
+  <img height="30em" src="https://img.shields.io/badge/-SQL-%23ED8B00.svg?style=flat&&logo=MySQL&logoColor=white"/>
+</div>
+
+<div>
   
+  
+  <img height="30em" src="https://img.shields.io/badge/python-%233670A0.svg?style=flat&logo=python&logoColor=ffdd54"/>
 </div>
 
 
